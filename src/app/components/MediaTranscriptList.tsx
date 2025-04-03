@@ -1,8 +1,6 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { promises as fs } from 'fs';
-import path from 'path';
 
 interface MediaTranscriptListProps {
   files: string[];
