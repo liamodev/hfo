@@ -61,7 +61,7 @@ export default function Home() {
           
           <div className="mb-16 flex justify-center">
             <Image
-              src="/KMWorkflow.png"
+              src="/KMWorkflow1.png"
               alt="RAG Process Diagram"
               width={560}
               height={280}
